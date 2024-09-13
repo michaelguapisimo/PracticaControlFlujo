@@ -3,3 +3,8 @@ C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Eva
 C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Properties.Resources.resources
 C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.GenerateResource.cache
 C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe.config
+C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe
+C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\bin\Debug\Evaluacion.pdb
+C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Evaluacion.exe
+C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb

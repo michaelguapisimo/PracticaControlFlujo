@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|c:\\users\\home\\onedrive\\escritorio\\pruebamype\\evaluacion\\evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|c:\\users\\home\\onedrive\\escritorio\\pruebamype\\evaluacion\\evaluacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|c:\\users\\home\\onedrive\\escritorio\\pruebamype\\evaluacion\\evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|c:\\users\\home\\onedrive\\escritorio\\pruebamype\\evaluacion\\evaluacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|c:\\users\\home\\onedrive\\escritorio\\pruebamype\\evaluacion\\evaluacion\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\evaluacion\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\evaluacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F47569C9-CA78-491B-A17B-C4B8BA6217DE}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,25 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\Evaluacion\\Form1.cs",
               "RelativeDocumentMoniker": "Evaluacion\\Form1.cs",
               "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\Evaluacion\\Form1.cs",
               "RelativeToolTip": "Evaluacion\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T02:22:17.291Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\Evaluacion\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Evaluacion\\Form1.Designer.cs",
@@ -56,50 +59,44 @@
               "RelativeToolTip": "Evaluacion\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T02:36:25.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T02:36:25.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\Evaluacion\\Estudiante.cs",
               "RelativeDocumentMoniker": "Evaluacion\\Estudiante.cs",
               "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\Evaluacion\\Estudiante.cs",
               "RelativeToolTip": "Evaluacion\\Estudiante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T02:40:21.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\Evaluacion\\Program.cs",
               "RelativeDocumentMoniker": "Evaluacion\\Program.cs",
               "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\Evaluacion\\Program.cs",
               "RelativeToolTip": "Evaluacion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T02:33:23.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\Evaluacion\\Form1.cs",
               "RelativeDocumentMoniker": "Evaluacion\\Form1.cs",
               "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\PruebaMyPE\\Evaluacion\\Evaluacion\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Evaluacion\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T02:14:49.484Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2024-09-13T02:14:49.484Z"
             }
           ]
         }
