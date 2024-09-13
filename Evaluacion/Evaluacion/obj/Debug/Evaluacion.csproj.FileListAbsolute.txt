@@ -1,0 +1,5 @@
+C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form1.resources
+C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Properties.Resources.resources
+C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Escritorio\PruebaMyPE\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.CoreCompileInputs.cache
